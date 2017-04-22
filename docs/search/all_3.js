@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['operator_28_29',['operator()',['../class_arithmetic.html#af7a5020c850c19b9ad02c55a547e530b',1,'Arithmetic']]]
+  ['main',['main',['../main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main.cpp']]],
+  ['main_2ecpp',['main.cpp',['../main_8cpp.html',1,'']]],
+  ['multiply',['multiply',['../class_arithmetic.html#a08401cbe81a8a58ca88f648c1f297e64',1,'Arithmetic']]]
 ];

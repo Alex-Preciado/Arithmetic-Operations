@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['substract',['substract',['../class_arithmetic.html#abbb09e9c3c4fb90f3ff7a2b97c72e168',1,'Arithmetic']]]
+  ['operator_28_29',['operator()',['../class_arithmetic.html#af7a5020c850c19b9ad02c55a547e530b',1,'Arithmetic']]]
 ];
