@@ -1,3 +1,6 @@
+#Ignore fftw library files
+fftw
+
 # Compiled Object files
 *.slo
 *.lo
