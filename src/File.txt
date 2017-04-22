@@ -1,0 +1,5 @@
+//! \file arithmetic.h
+//! \brief This files constrcts the Arithmetic Class
+///
+//! This file containts constructs the functions for the addition, substraction,
+/// multiplication and division of the Arithmetic class.

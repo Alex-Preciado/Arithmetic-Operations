@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_arithmetic.html#a9af13ee1d91c21c0dcbf75273ada15c9" title="Arithmetic::add" alt="" coords="120,5,231,32"/>
+<area shape="rect" id="node3" href="$class_arithmetic.html#abbb09e9c3c4fb90f3ff7a2b97c72e168" title="Arithmetic::substract" alt="" coords="104,56,247,83"/>
+<area shape="rect" id="node4" href="$class_arithmetic.html#a08401cbe81a8a58ca88f648c1f297e64" title="Arithmetic::multiply" alt="" coords="109,107,242,133"/>
+<area shape="rect" id="node5" href="$class_arithmetic.html#a262e0de1fd06b5fcba23a1ce81a61988" title="Arithmetic::divide" alt="" coords="113,157,237,184"/>
+</map>
